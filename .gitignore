@@ -1,0 +1,12 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+token.txt
+build/
+install/
+log/
+__pycache__/
+*.pyc
+token.txt
