@@ -1,0 +1,48 @@
+# ROS 2 / colcon build products
+/build/
+/install/
+/log/
+/.colcon/
+
+# CMake and CTest
+/CMakeCache.txt
+/CMakeFiles/
+/CTestTestfile.cmake
+/Testing/
+/Makefile
+/cmake_install.cmake
+/compile_commands.json
+/install_manifest.txt
+
+# Test, coverage and analysis output
+/test_results/
+*.gcda
+*.gcno
+*.gcov
+coverage/
+.cache/
+.pytest_cache/
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ROS bags and runtime data
+rosbag2_*/
+*.db3
+*.mcap
+
+# IDE and editor files
+/.idea/
+/.vscode/
+*.code-workspace
+*.user
+*.swp
+*.swo
+*~
+
+# Platform-specific files
+.DS_Store
+Thumbs.db
