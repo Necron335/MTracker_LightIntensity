@@ -12,3 +12,7 @@ Przygotowanie sterownika E K S T R E M A L N E G O do robota.
 NA TO SPOTKANIE MUSI BYĆ ZROBIONE:
 Wyznaczyć wzory analityczne na: Ad_x(f^-1) i Ad_x(h) na podstawie wzoru 54 i 89 i dalej, z artykułu Waypoint FOllowing for Differentially Driven WHeeled rOBOTS WITH lIMITED vELOCITY pERTURVATIONS(folder documents). 
 Dokończyć równanie 19 sterowania z artykułu Extremum Seeking Control of ...(folder documents).
+
+
+##
+w przypadku konwersji sterownika z py na cpp uzyc biblioteki eigen.cpp
